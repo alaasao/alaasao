@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm alaa</h1>
 <h3 align="center">A passionate frontend developer from algeria</h3>
 
-- 🌱 I’m currently learning **express js**
 
-- 💬 Ask me about **django ,react js ,next js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
